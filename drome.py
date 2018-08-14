@@ -8,6 +8,6 @@ while temp != 0:
     temp = temp // 10
  
 if num == rev:
-    print("number is palindrome")
+    print("yes")
 else:
-    print("number is not palindrome")
+    print("no")
